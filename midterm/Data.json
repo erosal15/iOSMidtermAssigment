@@ -1,0 +1,62 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Makina 67",
+        "description": "The Makina 67 is a 6×7 strut folding camera with a coupled rangefinder. It was developed by Plaubel after the company was bought in 1975 by a Japanese company named Doi and released in March 1979.",
+        "imageName": "makina67"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Leica M3",
+        "description": "The Leica M3 was introduced in 1954. It was a new starting point for Leitz, which until then had only produced screw-mount Leica cameras that were incremental improvements to its original Leica (Ur-Leica). Leica M cameras are still in production today. The M3 introduced several features to the Leica, among them the combination of viewfinder and rangefinder in one bright window, and a bayonet lens mount",
+        "imageName": "leicaM3"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Canon P",
+        "description": "The Canon P is a 35mm rangefinder camera with \"Leica screw\" (M39) lensmount manufactured by Canon from about 1958 to 1961. The \"P\" designation is for \"Populaire\" and it was marketed as a cheaper option to the Canon VI-L, the finder has frame lines for 35mm, and parallax correction for 50mm and 100mm lenses but omitted the selection dial present in the VI-L series. The parallax correction pin present in the VI series was also omitted. ",
+        "imageName": "canonP"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Nikon SP",
+        "description": "The Nikon was the first camera introduced by the optical manufacturer Nippon Kōgaku K.K.. It is a 35mm rangefinder camera, now known as the Nikon I.[1] The original design was approved by September 1946. After over a year of development and testing, manufacture began in March 1948. Sales began in September 1948 with a shipment of 100 cameras to Hong Kong. Production grew slowly over the next year, with all but a few of the cameras being sold to overseas markets including the United States. Because it uses a derivative of the Zeiss Contax camera mount, the Nikon camera bears a strong external resemblance to that camera. However, both the shutter and rangefinder mechanism followed the Leica's, resulting in a simpler, easier to manufacture design. ",
+        "imageName": "nikonSP"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Zorki 4",
+        "description": "The Zorki 4 is a Leica thread mount 35mm rangefinder camera, manufactured by KMZ in Krasnogorsk near Moscow in the former USSR. ЗОРКИЙ = Zorki means 'sharp sight' in Russian. The Zorki-4 was possibly the most popular of all Zorki cameras and the first to be exported in large numbers to the west. Produced between 1956 and 1973, there were 1,715,677 made. Exported versions are easily identified as they have Made in the USSR text in Cyrillic (SDELANO B CCCP) or Latin script and from 1960, the name Zorki is in Latin script. ",
+        "imageName": "zorki4"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "Contax G1",
+        "description": "In 1994 Contax introduced an apparent oddity: a new line of interchangeable-lens rangefinder cameras that did not use the established Leica-M or Leica-screw lens mounts. The new camera, the Contax G1, used the \"G\"-mount, an electronic autofocus mount. Critics were quick to accuse the camera of not being a \"true\" (mechanical) rangefinder, since it used autofocus and electronically-linked mechanisms.",
+        "imageName": "contaxG1"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "Bessa R3A",
+        "description": "The Bessa R3A was introduced in 2004. It is updated versions of the Bessa R2, with the Leica M mount and an aperture-priority automatic exposure, switchable to manual. The R3A has a finder with a 1x magnification, and 40/50/75/90 frame lines. It can take the trigger advance accessory. It was sold in textured black or flat grey paint finishes.",
+        "imageName": "bessaR3A"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "Konica Hexar RF",
+        "description": "The Konica Hexar RF is a rangefinder 35mm film camera introduced in 1999. It has a bayonet KM mount patterned after the Leica M.",
+        "imageName": "konikaHexarRF"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "Zeiss Ikon",
+        "description": "The 21st-century Zeiss Ikon models are manufactured by Cosina in Japan, for Carl Zeiss. It was announced in 2004 and inventory started becoming available in 2005, but many regions began selling them in 2006 when more ZM lenses started appearing. It is derived from Cosina's Voigtländer 35mm Bessa series. The chassis and parts are very different but shares the exposure meter and similar shutter systems.",
+        "imageName": "zeissIkon"
+    },
+    {
+        "id": "jj32jj887hhg99",
+        "name": "Leotax T2L",
+        "description": "The Leotax T2L also known as the Elite is a Japanese 35mm rangefinder camera produced by Shōwa Kōgaku c.1959. It is quite similar to the Leotax TV 2 but lacks a Selftimer.",
+        "imageName": "leotaxT2L"
+    }
+]
